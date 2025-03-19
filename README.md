@@ -19,7 +19,7 @@ Website URL: https://kimichie29.github.io/Laboratory-Assessment-1/
 
 - Download or Clone the Repository
 
-git clone https://github.com/your-repository-link.git
+git clone https://github.com/Kimichie29/Laboratory-Assessment-2.git
 
 - Navigate to the Project Directory
 
