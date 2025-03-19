@@ -5,7 +5,7 @@
 
 This project is a Photography Portfolio Website designed to showcase a photographer’s work in a visually appealing and user-friendly manner. The site includes a responsive gallery for displaying high-quality images shot by the photographer, an "About" section to introduce the photographer, and a "Contact" section for potential clients or followers to get in touch.
 
-Website URL: 
+Website URL: https://kimichie29.github.io/Laboratory-Assessment-2/
 
 ## Features Overview
 
