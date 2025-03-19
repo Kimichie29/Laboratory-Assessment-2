@@ -9,13 +9,31 @@ Website URL: https://kimichie29.github.io/Laboratory-Assessment-1/
 
 ## Features Overview
 
-Responsive Design: Ensures the website adapts to different screen sizes for an optimal viewing experience.
-- Navigation Bar: Provides quick access to different sections, including Home, Breeds, Care Tips, Gallery, and Contact.
-- Main Content Section: Covers an introduction to cats, popular cat breeds, and related details.
-- Aside Section: Displays fun cat facts along with engaging images.
-- Footer: Includes copyright information and branding.
-- Styled with CSS: Uses an external stylesheet to enhance visual appeal and readability.
+- Responsive Gallery: A beautifully arranged image gallery that adapts to different screen sizes.
+- Smooth Navigation: A fixed header with an easy-to-use navigation menu.
+- Stylish Design: A modern and clean design with smooth hover effects and a subtle color palette.
+- Contact Section: Includes social media links, email, and mobile contact information.
+- Optimized Layout: Mobile-friendly design with media queries for different screen sizes.
 
+## Setup Instructions
+
+- Download or Clone the Repository
+
+git clone https://github.com/your-repository-link.git
+
+- Navigate to the Project Directory
+
+cd photography-portfolio
+
+- Open the Project in a Browser
+
+Simply open the index.html file in a web browser.
+
+## Technologies Used
+- HTML: Structure and content of the web pages.
+- CSS: Styling, animations, and responsive design.
+- Media Queries: Ensures a mobile-friendly experience.
+- Gradient and Shadow Effects: Enhances the website’s aesthetics.
 
 Desktop View:
 
