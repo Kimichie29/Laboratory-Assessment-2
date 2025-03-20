@@ -3,31 +3,42 @@
 
 # Project Description
 
-This project is a Music Albums Portfolio, designed as a web-based showcase of favorite music albums and artists. It features a smooth image slider, an artist gallery, and a contact form. The interface is modern, responsive, and user-friendly, allowing visitors to explore music collections interactively.
+This project is a Photography Portfolio Website designed to showcase a photographer’s work in a visually appealing and user-friendly manner. The site includes a responsive gallery for displaying high-quality images shot by the photographer, an "About" section to introduce the photographer, and a "Contact" section for potential clients or followers to get in touch.
 
 Website URL: https://kimichie29.github.io/Laboratory-Assessment-2/
 
 ## Features Overview
 
-- Home Section – A welcoming page introducing the music collection.
-- Albums Section – A slider gallery displaying favorite album covers with smooth transitions.
-- Artists Section – A visually appealing grid layout showcasing favorite artists.
-- Interactive Slider – Automatic and manual navigation of albums.
-- Contact Form with Local Storage – Saves user inputs temporarily for a better experience.
-- Responsive Design – Works well on various screen sizes.
+- Responsive Gallery: A beautifully arranged image gallery that adapts to different screen sizes.
+- Smooth Navigation: A fixed header with an easy-to-use navigation menu.
+- Stylish Design: A modern and clean design with smooth hover effects and a subtle color palette.
+- Contact Section: Includes social media links, email, and mobile contact information.
+- Optimized Layout: Mobile-friendly design with media queries for different screen sizes.
 
 ## Setup Instructions
 
-1. Download the project files (index.html, styles.css, and script.js).
-2. Ensure you have an internet connection to load external fonts.
-3. Place the files in a project folder and open index.html in a browser.
-4. To modify albums and artists, update the image files and index.html content accordingly.
-   
+- Download or Clone the Repository
+
+git clone https://github.com/Kimichie29/Laboratory-Assessment-2.git
+
+- Navigate to the Project Directory
+
+cd photography-portfolio
+
+- Open the Project in a Browser
+
+Simply open the index.html file in a web browser.
+
 ## Technologies Used
-- HTML5 – Structuring the web page.
-- CSS3 – Styling, animations, and responsiveness.
-- JavaScript (Vanilla JS) – Interactive elements such as the image slider and form handling.
-- Local Storage API – Storing user input in the contact form.
+- HTML: Structure and content of the web pages.
+- CSS: Styling, animations, and responsive design.
+- Media Queries: Ensures a mobile-friendly experience.
+- Gradient and Shadow Effects: Enhances the website’s aesthetics.
 
-## Contact-Form Section
+Desktop View:
 
+![image](https://github.com/user-attachments/assets/83dc127f-f457-46cd-afab-0eb0c9eb4e20)
+
+Mobile View:
+
+![image](https://github.com/user-attachments/assets/88cdc66a-db88-4ed2-9209-275eb2a6d6ce)
